@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align=center> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/css Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-<!--
-**KyongBeom/KyongBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
+<p>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyongBeom&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyongBeom&layout=compact&theme=merko)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydqja0905)](https://solved.ac/dydqja0905/)
+</p>
+
+
+## 📋 Projects
+|Project Name|Member|Period|Introduction|Role|
+|:--:|:--:|:--:|:--:|:--:|
+|[PEEKPICK](추후업데이트)|6명|2023.07.10 ~ 2023.08.18|위치 기반 익명 취향공유 플랫폼|FE Leader|
+
+## 🏅 Awards
+|Name|Institution|Date|
+|:--:|:--:|:--:|
+|[2학기 공통 프로젝트 최우수상](추후링크추가)|SSAFY|2023.08.25|
+</div>
