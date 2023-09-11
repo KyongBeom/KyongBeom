@@ -24,10 +24,10 @@
 ## 📋 Projects
 |Project Name|Member|Period|Introduction|Role|
 |:--:|:--:|:--:|:--:|:--:|
-|[PEEKPICK](추후업데이트)|6명|2023.07.10 ~ 2023.08.18|위치 기반 익명 취향공유 플랫폼|FE Leader|
+|[PEEKPICK](https://github.com/PEEKPICK)|6명|2023.07.10 ~ 2023.08.18|위치 기반 익명 취향공유 플랫폼|FE Leader|
 
 ## 🏅 Awards
 |Name|Institution|Date|
 |:--:|:--:|:--:|
-|[2학기 공통 프로젝트 최우수상](추후링크추가)|SSAFY|2023.08.25|
+|[2학기 공통 프로젝트 최우수상](https://github.com/PEEKPICK)|SSAFY|2023.08.25|
 </div>
