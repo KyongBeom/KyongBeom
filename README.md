@@ -31,6 +31,6 @@
 ## 🏅 Awards
 |Name|Institution|Date|
 |:--:|:--:|:--:|
-|[2학기 공통 프로젝트 최우수상](https://github.com/PEEKPICK)|SSAFY|2023.08.25|
+|[2학기 공통 프로젝트 최우수상](https://github.com/KyongBeom/PEEKPICK)|SSAFY|2023.08.25|
 |[2학기 자율 프로젝트 우수상](https://github.com/KyongBeom/dingdong)|SSAFY|2023.12.20|
 </div>
