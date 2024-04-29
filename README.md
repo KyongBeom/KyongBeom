@@ -7,7 +7,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyongBeom&layout=compact&theme=merko)
 
- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydqja0905)]
+ ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydqja0905)
 </div>
 
 
