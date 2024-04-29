@@ -3,12 +3,12 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimYongBeom&fontSize=80)
   <br/>
 
-<div align=center>
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyongBeom&layout=compact&theme=merko)
 
  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydqja0905)
-</div>
+
 
 
 ## 📋 Projects
