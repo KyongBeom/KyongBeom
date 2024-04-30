@@ -2,10 +2,8 @@
 
    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimYongBeom&fontSize=80)
   <br/>
-## 🧑‍💻  About Me
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyongBeom&layout=compact&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYongBeom&show_icons=true&theme=transparent)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydqja0905)
 
 
